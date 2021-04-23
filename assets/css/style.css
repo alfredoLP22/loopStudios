@@ -156,7 +156,8 @@ nav >*{
     margin: 15px 0;
     height: 20vh;
     background-size: cover;
-    background-repeat: no-repeat;       
+    background-repeat: no-repeat;     
+    cursor: pointer;  
 }
 .shadow{
     width: 100%;
